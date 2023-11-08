@@ -7,5 +7,7 @@
 - Skills showcased include creativity in problem-solving, ability to tackle challenges, and self-learning in completing the entire game development process.
 
 
-https://github.com/AmosOvadia/SnakeGamePython/assets/116605746/068aee7d-cc65-466b-a6e3-070afee26cf6
+
+
+https://github.com/AmosOvadia/SnakeGamePython/assets/116605746/219e245d-fa0d-488f-9e7c-8a7de707fd2f
 
